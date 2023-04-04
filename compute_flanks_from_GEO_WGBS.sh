@@ -6,8 +6,6 @@
 # pavel.bashtrykov@gmail.com
 ################################################################################
 
-conda activate wgbs2flanks
-
 # PROVIDE ABSOLUTE PATH TO THE GENOME AND WGBS2FLANKS SCRIPTS
 PATH_GENOME_FASTA=~/HDD/genomes/mm9/mm9.fa
 PATH_WGBS2FLANKS=~/tools/wgbs_draft/
